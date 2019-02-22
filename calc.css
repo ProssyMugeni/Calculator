@@ -1,0 +1,32 @@
+body{
+    background-color:blueviolet;
+}
+.container{
+    background-color: #fff;
+    margin:100px auto;
+    width:450px;
+}
+table{
+    width: 100%;
+    border-color:#f4f4f4; 
+    border-radius: 15px;
+
+}
+td{
+    width:25%
+}
+button{
+    width: 100px;
+    height:70px;
+    font-size: 24px;
+}
+#inputlabel{
+    text-align: right;
+    background-color: #ececec;
+    height:80px;
+    font-size: 40px;
+    vertical-align: bottom;
+    padding-right: 16px;
+
+
+}
